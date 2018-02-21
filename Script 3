@@ -1,0 +1,82 @@
+@media screen and (min-width : 768px) {
+.name-slider-left.et_pb_slider .et_pb_container {
+width:100%
+}
+.name-slider-left .et_pb_slide_with_image .et_pb_slide_description {
+float: left !important;
+text-align:right;
+padding:10% 5%;
+width:50%;
+}
+.name-slider-left .et_pb_slide_image {
+width:50%;
+margin-left:50%;
+}
+}
+
+/* Stop Slider Description Animation */
+  .et_pb_slide_description {animation:none!important;}
+
+
+
+
+float: left !important;
+
+text-align: left !important;
+padding: 50% 50% !important;
+float: left !important; 
+
+
+ul.et_pb_side_nav {
+top: 50%;
+right: 0.25%;
+width: auto;
+padding: 5px;
+-webkit-border-top-left-radius: 9px;
+-moz-border-radius-topleft: 9px;
+border-top-left-radius: 9px;
+-webkit-border-bottom-left-radius: 9px;
+-moz-border-radius-bottomleft: 9px;
+border-bottom-left-radius: 9px;
+-webkit-border-top-right-radius: 9px;
+-moz-border-radius-topright: 9px;
+border-top-right-radius: 9px;
+-webkit-border-bottom-right-radius: 9px;
+-moz-border-radius-bottomright: 9px;
+border-bottom-right-radius: 9px;
+opacity: 0;
+background: #4aa3df;
+}
+ul.et_pb_side_nav li.side_nav_item {
+padding: 7px;
+}
+ul.et_pb_side_nav .side_nav_item a {
+width: 10px;
+height: 10px;
+margin-right: 0px;
+-webkit-border-radius: 50px;
+-moz-border-radius: 50px;
+border-radius: 50px;
+background-color: rgba(255,255,255,0.46);
+}
+ul.et_pb_side_nav.et-visible {
+opacity: 1;
+-webkit-animation: flipInX 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+-moz-animation: flipInX 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+-o-animation: flipInX 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+animation: flipInX 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+}
+ul.et_pb_side_nav .side_nav_item a.active,
+ul.et_pb_side_nav .side_nav_item a:hover {
+background-color: #ffffff !important;
+transform: scale(1.4);
+transition: background-color 0.3s ease, transform 0.3s linear;
+}
+
+
+
+
+define ('WP_DEBUG', true);
+define ('WP_DEBUG_LOG', true);
+define ('WP_DEBUG_DISPLAY'. false);
+@ini_set ('display_errors', 0);
