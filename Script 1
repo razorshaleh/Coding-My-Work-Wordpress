@@ -1,0 +1,91 @@
+.et_pb_text.et_pb_module.et_pb_bg_layout_light.et_pb_text_align_center.et_pb_text_22 { max-width: 800px; } .et_pb_module.et-waypoint.et_pb_image.et_pb_animation_off.et_pb_image_1.et_always_center_on_mobile.pum-trigger.et-animated { margin: auto; } .et_pb_module.et-waypoint.et_pb_image.et_pb_animation_off.et_pb_image_2.et_always_center_on_mobile.pum-trigger.et-animated { margin: auto; } .et_pb_module.et-waypoint.et_pb_image.et_pb_animation_off.et_pb_image_3.et_always_center_on_mobile.pum-trigger.et-animated { margin: auto; }.et_pb_module.et-waypoint.et_pb_image.et_pb_animation_off.et_pb_image_7.et_always_center_on_mobile.pum-trigger.et-animated { width: 230px; }.et_pb_module.et-waypoint.et_pb_image.et_pb_animation_off.et_pb_image_8.et_always_center_on_mobile.et-animated { width: 240px; }.et_pb_image_13, .et_pb_image_14, .et_pb_image_15, .et_pb_image_16, .et_pb_image_17, .et_pb_image_18 { padding: 5px; }
+.et_fullscreen_slider .et_pb_slides,
+.et_fullscreen_slider .et_pb_slide,
+.et_fullscreen_slider .et_pb_container {
+    min-height: 100% !important;
+    height: 100% !important;
+}
+
+rgb(96, 74, 8)
+
+ul.et_pb_side_nav {
+top: 50%;
+right: 0.25%;
+width: auto;
+padding: 3px;
+border: 3px solid rgb(96, 74, 8);
+-webkit-border-top-left-radius: 0px;
+-moz-border-radius-topleft: 0px;
+border-top-left-radius: 0px;
+-webkit-border-bottom-left-radius: 0px;
+-moz-border-radius-bottomleft: 0px;
+border-bottom-left-radius: 0px;
+-webkit-border-top-right-radius: 0px;
+-moz-border-radius-topright: 0px;
+border-top-right-radius: 0px;
+-webkit-border-bottom-right-radius: 0px;
+-moz-border-radius-bottomright: 0px;
+border-bottom-right-radius: 0px;
+opacity: 0;
+background: rgba(244,100,97,0.6);  rgba(244,100,97,0.6)
+-webkit-box-shadow: 0 0 8px rgba(0,0,0,.4);
+-moz-box-shadow: 0 0 8px rgba(0,0,0,.4);
+box-shadow: 0 0 8px rgba(0,0,0,.4);
+}
+ul.et_pb_side_nav li.side_nav_item {
+padding: 3px;
+}
+ul.et_pb_side_nav .side_nav_item a {
+width: 25px;
+height: 25px;
+margin-right: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+background-color: #f40400;
+}
+ul.et_pb_side_nav.et-visible {
+opacity: 1;
+-webkit-animation: fadeTop 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+-moz-animation: fadeTop 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+-o-animation: fadeTop 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+animation: fadeTop 1.5s 1 cubic-bezier(0.77, 0, 0.175, 1);
+}
+ul.et_pb_side_nav .side_nav_item a.active,
+ul.et_pb_side_nav .side_nav_item a:hover {
+background-color: #f46461 !important;
+transition: background-color 0.6s ease;
+}
+
+display:block;
+position:absolute;
+content:'';
+right: 0;
+left: 0;
+z-index: 10;
+display: block;
+height: 90px;
+background-size: 50px 100%;
+top: -90px;
+background-image: -webkit-gradient(linear, 0 0, 300% 100%, color-stop(0.25, transparent), color-stop(0.25, #3498db));
+background-image:
+linear-gradient(315deg, #3498db 20%,transparent 20%),
+linear-gradient( 45deg,#3498db 20%,transparent 20%);
+background-position: 100%;
+
+<h4 style="text-align: center;"><span style="color: #ffffff;">Organized by <a href="http://17globalgoals.org" style="color: #ffffff;"><strong>Global Goals MUN</strong></a> | Supported by <a href="http://ign.or.id" style="color: #ffffff;"><strong>IGN</strong></a>               <a href="http://17globalgoals.org/terms-conditions/" style="color: #ffffff;"><strong>TERMS AND CONDITIONS</strong></a></span></h4>
+
+http://128.199.189.96/terms-conditions/
+http://awmun.org/terms-and-conditions/
+
+<tr>
+<td style="padding: 10px;"><strong><span style="color: #000000;">PAYMENT DEADLINE</span></strong></td>
+<td style="text-align: center;"><strong><span style="color: #000000;">28 Febuary 2018</span></strong></td>
+<td style="text-align: center;"><strong><span style="color: #000000;">15 march 2018</span></strong></td>
+</tr>
+
+<td style="padding: 10px;">Entrance Delegates</td>
+<td style="text-align: center;">✔</td>
+</tr>
+<tr style="background: #d7ecf3;">
+<td style="padding: 10px;">Coffe Break 2 times/day</td>
