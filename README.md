@@ -1,2 +1,2 @@
-# Coding-My-Work-Wordpress
+# SMS TOOL
 GGWP DOTA 2
